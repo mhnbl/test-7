@@ -162,11 +162,6 @@ mylist.addEnd('18:00','BANDUNG','KA468')
 mylist.addEnd('19:30','JAKARTA','KA246')
 mylist.addEnd('21:00','BANDUNG','KA753')
 
-
-
-
-
-
 def Q():
     tanya = input('\nKe menu utama? [y/t]: ').lower()
     while tanya not in ["y","t"]:
